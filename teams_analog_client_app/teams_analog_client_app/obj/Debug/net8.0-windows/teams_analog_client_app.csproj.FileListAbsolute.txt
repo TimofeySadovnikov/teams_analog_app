@@ -1,0 +1,16 @@
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\bin\Debug\net8.0-windows\teams_analog_client_app.exe
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\bin\Debug\net8.0-windows\teams_analog_client_app.deps.json
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\bin\Debug\net8.0-windows\teams_analog_client_app.runtimeconfig.json
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\bin\Debug\net8.0-windows\teams_analog_client_app.dll
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\bin\Debug\net8.0-windows\teams_analog_client_app.pdb
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\teams_analog_client_app.Form1.resources
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\teams_analog_client_app.csproj.GenerateResource.cache
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\teams_analog_client_app.GeneratedMSBuildEditorConfig.editorconfig
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\teams_analog_client_app.AssemblyInfoInputs.cache
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\teams_analog_client_app.AssemblyInfo.cs
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\teams_analog_client_app.csproj.CoreCompileInputs.cache
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\teams_analog_client_app.dll
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\refint\teams_analog_client_app.dll
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\teams_analog_client_app.pdb
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\teams_analog_client_app.genruntimeconfig.cache
+F:\Network Programming\Lesson 9\teams_analog_client_app\teams_analog_client_app\obj\Debug\net8.0-windows\ref\teams_analog_client_app.dll

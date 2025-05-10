@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8F35C5-7ADB-4C0F-BFDE-99003B5B0E6D}|teams_analog_client_app\\teams_analog_client_app.csproj|f:\\network programming\\lesson 9\\teams_analog_client_app\\teams_analog_client_app\\videoclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8F35C5-7ADB-4C0F-BFDE-99003B5B0E6D}|teams_analog_client_app\\teams_analog_client_app.csproj|solutionrelative:teams_analog_client_app\\videoclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8F35C5-7ADB-4C0F-BFDE-99003B5B0E6D}|teams_analog_client_app\\teams_analog_client_app.csproj|f:\\network programming\\lesson 9\\teams_analog_client_app\\teams_analog_client_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8F35C5-7ADB-4C0F-BFDE-99003B5B0E6D}|teams_analog_client_app\\teams_analog_client_app.csproj|solutionrelative:teams_analog_client_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8F35C5-7ADB-4C0F-BFDE-99003B5B0E6D}|teams_analog_client_app\\teams_analog_client_app.csproj|F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\teams_analog_client_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF8F35C5-7ADB-4C0F-BFDE-99003B5B0E6D}|teams_analog_client_app\\teams_analog_client_app.csproj|solutionrelative:teams_analog_client_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8F35C5-7ADB-4C0F-BFDE-99003B5B0E6D}|teams_analog_client_app\\teams_analog_client_app.csproj|f:\\network programming\\lesson 9\\teams_analog_client_app\\teams_analog_client_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8F35C5-7ADB-4C0F-BFDE-99003B5B0E6D}|teams_analog_client_app\\teams_analog_client_app.csproj|solutionrelative:teams_analog_client_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoClient.cs",
+              "DocumentMoniker": "F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\teams_analog_client_app\\VideoClient.cs",
+              "RelativeDocumentMoniker": "teams_analog_client_app\\VideoClient.cs",
+              "ToolTip": "F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\teams_analog_client_app\\VideoClient.cs",
+              "RelativeToolTip": "teams_analog_client_app\\VideoClient.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwBoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:30:46.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\teams_analog_client_app\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "teams_analog_client_app\\Form1.Designer.cs",
+              "ToolTip": "F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\teams_analog_client_app\\Form1.Designer.cs",
+              "RelativeToolTip": "teams_analog_client_app\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:30:20.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\teams_analog_client_app\\Form1.cs",
+              "RelativeDocumentMoniker": "teams_analog_client_app\\Form1.cs",
+              "ToolTip": "F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\teams_analog_client_app\\Form1.cs",
+              "RelativeToolTip": "teams_analog_client_app\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:10:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\teams_analog_client_app\\Form1.cs",
+              "RelativeDocumentMoniker": "teams_analog_client_app\\Form1.cs",
+              "ToolTip": "F:\\Network Programming\\Lesson 9\\teams_analog_client_app\\teams_analog_client_app\\Form1.cs [Design]",
+              "RelativeToolTip": "teams_analog_client_app\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:07:51.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
